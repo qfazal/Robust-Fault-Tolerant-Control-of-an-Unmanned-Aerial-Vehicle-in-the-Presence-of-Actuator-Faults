@@ -1,3 +1,3 @@
 # Robust Fault Tolerant Control of an Unmanned Aerial Vehicle in the Presence of Actuator Faults
 
-This repository contains MATLAB code and experiments related to my Master's research, conducted from 2014 to 2016.
+This repository contains MATLAB code and experiments related to my Master's research, conducted at the College of EME, NUST, Islamabad, from 2014 to 2016.
